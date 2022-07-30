@@ -1,0 +1,11 @@
+Swag-Mode DH: loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+
+Arctic DH: loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PolarWasHere/Arctic/main/Arctic"))()
+
+Bedwars/Rift Royale: loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()}
+
+Dark-Hub: loadstring(game:HttpGet("http://darkhub.xyz/remote-script.lua", true))()
+
+Eclipse-X:  loadstring(game:HttpGet("https://raw.githubusercontent.com/ECLIPSEXHUB/ECLIPSE-X/main/ECLIPSE%20X.txt", true))()
+
+More to Come! 
