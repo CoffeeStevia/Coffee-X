@@ -1,3 +1,5 @@
+Splice Hub: https://raw.githubusercontent.com/CoffeeStevia/Splice/main/Splice%20Hub
+
 Swag-Mode DH: loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
 
 Arctic DH: loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PolarWasHere/Arctic/main/Arctic"))()
@@ -8,4 +10,8 @@ Dark-Hub: loadstring(game:HttpGet("http://darkhub.xyz/remote-script.lua", true))
 
 Eclipse-X:  loadstring(game:HttpGet("https://raw.githubusercontent.com/ECLIPSEXHUB/ECLIPSE-X/main/ECLIPSE%20X.txt", true))()
 
-More to Come! 
+Backdoor: https://raw.githubusercontent.com/CoffeeStevia/scripts/main/Backdoor?token=GHSAT0AAAAAABX2ZTQBTL4JHATWC2XZQ6V4YYD47UA
+
+V.G Hub: loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+
+Discord: https://discord.gg/jKAbQrRU
